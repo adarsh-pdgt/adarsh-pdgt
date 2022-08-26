@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-pdgt&count_private=true&theme=dark&show_icons=true&hide=stars,contribs)
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarsh-pdgt&count_private=true&theme=dark&show_icons=true)
 <!--
 **adarsh-pdgt/adarsh-pdgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
